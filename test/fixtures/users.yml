@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  login: MyString
+  pass: MyString
+  user_level: 1.5
+
+two:
+  login: MyString
+  pass: MyString
+  user_level: 1.5
